@@ -1,0 +1,876 @@
+{
+    "Status": "Success",
+    "Message": "Successfully loaded data",
+    "Data": [
+        {
+            "ServerName": "ABCMovies",
+            "Address": "http://103.103.239.66/",
+            "Description": "🎬 Movie",
+            "ResultSpan": "abcmovies",
+            "LinkSpan": "abcmoviesLink"
+        },
+        {
+            "ServerName": "Alpha Streaming",
+            "Address": "http://alphamediazone.com/moviedom/",
+            "Description": "🎬 Movie",
+            "ResultSpan": "alphamediazone",
+            "LinkSpan": "alphamediazoneLink"
+        },
+        {
+            "ServerName": "Alive Network",
+            "Address": "http://172.127.27.102/",
+            "Description": "🌐 FTP",
+            "ResultSpan": "alivenetwork",
+            "LinkSpan": "alivenetworkLink"
+        },
+        {
+            "ServerName": "Alivenet Bogura FTP",
+            "Address": "http://103.135.134.226/",
+            "Description": "🌐 FTP",
+            "ResultSpan": "alivenetbogura",
+            "LinkSpan": "alivenetboguraLink"
+        },
+        {
+            "ServerName": "Alpha Media Zone",
+            "Address": "http://ftp.alphamediazone.com/",
+            "Description": "🌐 FTP",
+            "ResultSpan": "alphamediazoneftp",
+            "LinkSpan": "alphamediazoneftpLink"
+        },
+        {
+            "ServerName": "AjobNet",
+            "Address": "http://103.106.59.226:8096/",
+            "Description": "🎬 Movie",
+            "ResultSpan": "ajobnet",
+            "LinkSpan": "ajobnetLink"
+        },
+        {
+            "ServerName": "Amrbd",
+            "Address": "http://bdtv.live/",
+            "Description": "📺 TV",
+            "Rating": "⭐",
+            "ResultSpan": "amrbd",
+            "LinkSpan": "amrbdLink"
+        },
+        {
+            "ServerName": "B Net",
+            "Address": "http://103.58.73.13/",
+            "Description": "🌐 FTP",
+            "ResultSpan": "bnet",
+            "LinkSpan": "bnetLink"
+        },
+        {
+            "ServerName": "Bangla Flix",
+            "Address": "http://banglaflix.com.bd/",
+            "Description": "🎬 Movie, Feemium",
+            "Rating": "⭐⭐",
+            "ResultSpan": "banglaflix",
+            "LinkSpan": "banglaflixLink"
+        },
+        {
+            "ServerName": "Barnali Internet",
+            "Address": "http://103.112.63.21/",
+            "Description": "🎬 Movie",
+            "ResultSpan": "barnali",
+            "LinkSpan": "barnaliLink"
+        },
+        {
+            "ServerName": "Barua Cybernet",
+            "Address": "http://12.1.1.3/",
+            "Description": "🎬 Movie",
+            "ResultSpan": "baruacynet",
+            "LinkSpan": "baruacynetLink"
+        },
+        {
+            "ServerName": "Barua Local",
+            "Address": "http://12.1.1.1/",
+            "Description": "🌐 FTP",
+            "ResultSpan": "barualocal",
+            "LinkSpan": "barualocalLink"
+        },
+        {
+            "ServerName": "BAS network",
+            "Address": "http://103.87.212.46",
+            "Description": "🎬 Movie",
+            "Rating": "⭐⭐⭐",
+            "ResultSpan": "bas",
+            "LinkSpan": "basLink"
+        },
+        {
+            "ServerName": "Beeflix",
+            "Address": "http://beeflix.biz/",
+            "Description": "🎬 Movie",
+            "Rating": "⭐",
+            "ResultSpan": "beeflix",
+            "LinkSpan": "beeflixLink"
+        },
+        {
+            "ServerName": "BD Broadband",
+            "Address": "http://bdbroadband.com/ftp/",
+            "Description": "🎬 Movie",
+            "Rating": "⭐",
+            "ResultSpan": "bdBroadband",
+            "LinkSpan": "bdBroadbandLink"
+        },
+        {
+            "ServerName": "BD Fun",
+            "Address": "http://www.bdfun.club/",
+            "Description": "🎬 Movie",
+            "ResultSpan": "bdfun",
+            "LinkSpan": "bdfunLink"
+        },
+        {
+            "ServerName": "BDIP TV",
+            "Address": "http://bdiptv.com/",
+            "Description": "📺 TV, Premium",
+            "ResultSpan": "bdip",
+            "LinkSpan": "bdipLink"
+        },
+        {
+            "ServerName": "BDIX FTP 1",
+            "Address": "http://45.120.114.222/",
+            "Description": "🌐 FTP",
+            "ResultSpan": "bdixFtp1",
+            "LinkSpan": "bdixFtp1Link"
+        },
+        {
+            "ServerName": "BDIX FTP 2",
+            "Address": "http://103.229.18.142/",
+            "Description": "🌐 FTP",
+            "ResultSpan": "bdixFtp2",
+            "LinkSpan": "bdixFtp2Link"
+        },
+        {
+            "ServerName": "BDIX Sports",
+            "Address": "http://103.114.36.14/",
+            "Description": "📺 TV",
+            "ResultSpan": "bdixSports",
+            "LinkSpan": "bdixSportsLink"
+        },
+        {
+            "ServerName": "BD Lan",
+            "Address": "http://bdlan.net/",
+            "Description": "🎬 Movie",
+            "Rating": "⭐",
+            "ResultSpan": "bdLan",
+            "LinkSpan": "bdLanLink"
+        },
+        {
+            "ServerName": "bdplex",
+            "Address": "http://bdplex.net/",
+            "Description": "🎬 Movie",
+            "ResultSpan": "bdplex",
+            "LinkSpan": "bdplexLink"
+        },
+        {
+            "ServerName": "BinodonMela",
+            "Address": "http://binodonmela.net/",
+            "Description": "🎬 Movie",
+            "Rating": "⭐⭐",
+            "ResultSpan": "binodonmela",
+            "LinkSpan": "binodonmelaLink"
+        },
+        {
+            "ServerName": "Bioscope Live",
+            "Address": "https://bioscopelive.com/",
+            "Description": "🎬 Movie, 📺 TV, Fremium",
+            "Rating": "⭐⭐",
+            "ResultSpan": "bioscope",
+            "LinkSpan": "bioscopeLink"
+        },
+        {
+            "ServerName": "BongoBD",
+            "Address": "https://bongobd.com/",
+            "Description": "🎬 Movie, Fremium",
+            "ResultSpan": "bongo",
+            "LinkSpan": "bongoLink"
+        },
+        {
+            "ServerName": "Bonsai HD",
+            "Address": "https://www.bonsaihd.fun/",
+            "Description": "🎬 Movie",
+            "Rating": "☠️",
+            "ResultSpan": "bonsai",
+            "LinkSpan": "bonsaiLink"
+        },
+        {
+            "ServerName": "Boss BD",
+            "Address": "http://cdn.bossbd.net/",
+            "Description": "🌐 FTP",
+            "ResultSpan": "boss",
+            "LinkSpan": "bossLink"
+        },
+        {
+            "ServerName": "Boss BD FTP",
+            "Address": "http://cdn2.bossbd.net/",
+            "Description": "🌐 FTP",
+            "ResultSpan": "boss2",
+            "LinkSpan": "boss2Link"
+        },
+        {
+            "ServerName": "Bit Net FTP",
+            "Address": "http://dl.bitnetbd.com/",
+            "Description": "🌐 FTP",
+            "ResultSpan": "bitNetFtp",
+            "LinkSpan": "bitNetFtpLink"
+        },
+        {
+            "ServerName": "CandyBD",
+            "Address": "http://candybd.net/",
+            "Description": "🎬 Movie",
+            "ResultSpan": "candy",
+            "LinkSpan": "candyLink"
+        },
+        {
+            "ServerName": "Chaya Chobi",
+            "Address": "http://chayachobi.net/",
+            "Description": "🎬 Movie",
+            "ResultSpan": "chaya",
+            "LinkSpan": "chayaLink"
+        },
+        {
+            "ServerName": "Cine Bioscope",
+            "Address": "http://www.cinebioscope.com/",
+            "Description": "🎬 Movie",
+            "ResultSpan": "cine",
+            "LinkSpan": "cineLink"
+        },
+        {
+            "ServerName": "Circle Network Local",
+            "Address": "http://15.1.1.1/",
+            "Description": "🌐 FTP",
+            "ResultSpan": "circleLocal",
+            "LinkSpan": "circleLocalLink"
+        },
+        {
+            "ServerName": "Citech Movies",
+            "Address": "http://203.83.177.225/",
+            "Description": "🎬 Movie",
+            "ResultSpan": "citech",
+            "LinkSpan": "citechLink"
+        },
+        {
+            "ServerName": "CNet FTP",
+            "Address": "http://144.48.110.190:8080/",
+            "Description": "🌐 FTP",
+            "ResultSpan": "cnetFtp",
+            "LinkSpan": "cnetFtpLink"
+        },
+        {
+            "ServerName": "Crazy CTG",
+            "Address": "http://crazyctg.com/",
+            "Description": "🎬 Movie",
+            "ResultSpan": "crazy",
+            "LinkSpan": "crazyLink"
+        },
+        {
+            "ServerName": "CTG Flix",
+            "Address": "http://www.ctgflix.com/",
+            "Description": "🎬 Movie",
+            "ResultSpan": "ctg",
+            "LinkSpan": "ctgLink"
+        },
+        {
+            "ServerName": "CTG Fun",
+            "Address": "http://ctgfun.com/",
+            "Description": "🎬 Movie",
+            "ResultSpan": "ctgfun",
+            "LinkSpan": "ctgfunLink"
+        },
+        {
+            "ServerName": "CTG Hall",
+            "Address": "http://www.ctghall.com/",
+            "Description": "🎬 Movie",
+            "ResultSpan": "ctghall",
+            "LinkSpan": "ctghallLink"
+        },
+        {
+            "ServerName": "CTG Hub",
+            "Address": "http://www.ctghub.com/",
+            "Description": "🎬 Movie",
+            "ResultSpan": "ctghub",
+            "LinkSpan": "ctghubLink"
+        },
+        {
+            "ServerName": "CTG Movies",
+            "Address": "http://ctgmovies.com/",
+            "Description": "🎬 Movie",
+            "ResultSpan": "ctgmovies",
+            "LinkSpan": "ctgmoviesLink"
+        },
+        {
+            "ServerName": "CTG Stream",
+            "Address": "http://ctgstream.com/",
+            "Description": "🎬 Movie",
+            "ResultSpan": "ctgstream",
+            "LinkSpan": "ctgstreamLink"
+        },
+        {
+            "ServerName": "Dhaka Movie",
+            "Address": "http://www.dhakamovie.com/",
+            "Description": "🎬 Movie",
+            "ResultSpan": "dhakaMovie",
+            "LinkSpan": "dhakaMovieLink"
+        },
+        {
+            "ServerName": "Dhaka Movie Tube",
+            "Address": "http://dhakamovietube.com/tube/",
+            "Description": "🎬 Movie",
+            "ResultSpan": "dhakaMovieTube",
+            "LinkSpan": "dhakaMovieTubeLink"
+        },
+        {
+            "ServerName": "DNF BD",
+            "Address": "http://media.dnfbd.net/",
+            "Description": "🎬 Movie",
+            "ResultSpan": "dnf",
+            "LinkSpan": "dnfLink"
+        },
+        {
+            "ServerName": "Dream Flix",
+            "Address": "http://www.dnftpbd.com/",
+            "Description": "🎬 Movie",
+            "ResultSpan": "dream",
+            "LinkSpan": "dreamLink"
+        },
+        {
+            "ServerName": "Dugdugi Live",
+            "Address": "http://www.duggilive.com/",
+            "Description": "📺 TV",
+            "ResultSpan": "duggi",
+            "LinkSpan": "duggiLink"
+        },
+        {
+            "ServerName": "EBox",
+            "Address": "http://www.ebox.live/",
+            "Description": "🎬 Movie",
+            "ResultSpan": "ebox",
+            "LinkSpan": "eboxLink"
+        },
+        {
+            "ServerName": "EBox FTP",
+            "Address": "http://fileserver.ebox.live/",
+            "Description": "🌐 FTP",
+            "Rating": "⭐⭐⭐⭐",
+            "ResultSpan": "eboxFtp",
+            "LinkSpan": "eboxFtpLink"
+        },
+        {
+            "ServerName": "Ekushe Net",
+            "Address": "http://10.100.100.2/",
+            "Description": "🌐 FTP",
+            "ResultSpan": "ekushe",
+            "LinkSpan": "ekusheLink"
+        },
+        {
+            "ServerName": "Elaach",
+            "Address": "http://www.elaach.com/",
+            "Description": "🎬 Movie",
+            "Rating": "⭐⭐⭐",
+            "ResultSpan": "elaach",
+            "LinkSpan": "elaachLink"
+        },
+        {
+            "ServerName": "Evolution Net",
+            "Address": "http://evonetbd.com/",
+            "Description": "🎬 Movie",
+            "ResultSpan": "evo",
+            "LinkSpan": "evoLink"
+        },
+        {
+            "ServerName": "Evolution Net FTP",
+            "Address": "http://fs.evonetbd.com/",
+            "Description": "🌐 FTP",
+            "ResultSpan": "evoFtp",
+            "LinkSpan": "evoFtpLink"
+        },
+        {
+            "ServerName": "E-Village CTG",
+            "Address": "http://fs.evillagectg.com/",
+            "Description": "🎬 Movie",
+            "ResultSpan": "evillage",
+            "LinkSpan": "evillageLink"
+        },
+        {
+            "ServerName": "Explore Online",
+            "Address": "http://103.222.20.150/",
+            "Description": "🎬 Movie",
+            "Rating": "⭐⭐⭐",
+            "ResultSpan": "explore",
+            "LinkSpan": "exploreLink"
+        },
+        {
+            "ServerName": "FMovies",
+            "Address": "https://www6.fmovies.se/",
+            "Description": "🎬 Movie",
+            "Rating": "☠️",
+            "ResultSpan": "fmovies",
+            "LinkSpan": "fmoviesLink"
+        },
+        {
+            "ServerName": "FTP BD",
+            "Address": "http://ftpbd.com/",
+            "Description": "🎬 Movie",
+            "ResultSpan": "ftpbd",
+            "LinkSpan": "ftpbdLink"
+        },
+        {
+            "ServerName": "FunTimeBD",
+            "Address": "http://www.funtimebd.com/",
+            "Description": "🎬 Movie",
+            "ResultSpan": "funtime",
+            "LinkSpan": "funtimeLink"
+        },
+        {
+            "ServerName": "Furious Net FTP",
+            "Address": "http://www.furiousnet.net/ftp/",
+            "Description": "🌐 FTP",
+            "ResultSpan": "furious",
+            "LinkSpan": "furiousLink"
+        },
+        {
+            "ServerName": "GC Global",
+            "Address": "http://103.113.16.46/",
+            "Description": "🎬 Movie",
+            "ResultSpan": "gc",
+            "LinkSpan": "gcLink"
+        },
+        {
+            "ServerName": "iBox",
+            "Address": "http://103.135.208.2/",
+            "Description": "🎬 Movie",
+            "ResultSpan": "ibox",
+            "LinkSpan": "iboxLink"
+        },
+        {
+            "ServerName": "ICC Server",
+            "Address": "http://10.16.100.244/",
+            "Description": "🎬 Movie",
+            "Rating": "⭐⭐⭐",
+            "ResultSpan": "icc",
+            "LinkSpan": "iccLink"
+        },
+        {
+            "ServerName": "ICC TV",
+            "Address": "http://10.16.100.244/livetv.php",
+            "Description": "📺 TV",
+            "Rating": "⭐",
+            "ResultSpan": "icctv",
+            "LinkSpan": "icctvLink"
+        },
+        {
+            "ServerName": "iflix",
+            "Address": "https://piay.iflix.com/",
+            "Description": "🎬 Movie",
+            "ResultSpan": "iflix",
+            "LinkSpan": "iflixLink"
+        },
+        {
+            "ServerName": "iHub Movie",
+            "Address": "http://ihub.live/",
+            "Description": "🎬 Movie, 📺 TV",
+            "Rating": "⭐⭐⭐⭐",
+            "ResultSpan": "ihub",
+            "LinkSpan": "ihubLink"
+        },
+        {
+            "ServerName": "iHub TV",
+            "Address": "http://tv.ihub.live/",
+            "Description": "📺 TV",
+            "ResultSpan": "ihubtv",
+            "LinkSpan": "ihubtvLink"
+        },
+        {
+            "ServerName": "Info Internet Service",
+            "Address": "http://103.85.197.10/",
+            "Description": "🎬 Movie",
+            "ResultSpan": "info",
+            "LinkSpan": "infoLink"
+        },
+        {
+            "ServerName": "Intro Vision",
+            "Address": "http://www.theintrovisionbd.com/",
+            "Description": "🎬 Movie",
+            "ResultSpan": "intro",
+            "LinkSpan": "introLink"
+        },
+        {
+            "ServerName": "Jago BD TV",
+            "Address": "http://www.jagobd.com/",
+            "Description": "📺 TV",
+            "Rating": "⭐⭐",
+            "ResultSpan": "jago",
+            "LinkSpan": "jagoLink"
+        },
+        {
+            "ServerName": "JDIX",
+            "Address": "http://162.12.215.254",
+            "Description": "🎬 Movie",
+            "Rating": "⭐⭐⭐⭐",
+            "ResultSpan": "jdix",
+            "LinkSpan": "jdixLink"
+        },
+        {
+            "ServerName": "Kalponik",
+            "Address": "http://kalponik.net.bd/",
+            "Description": "🎬 Movie",
+            "Rating": "⭐⭐⭐⭐",
+            "ResultSpan": "kalponik",
+            "LinkSpan": "kalponikLink"
+        },
+        {
+            "ServerName": "Khulna Plex",
+            "Address": "http://khulnaplex.net/",
+            "Description": "🎬 Movie",
+            "Rating": "⭐⭐⭐⭐",
+            "ResultSpan": "khulna",
+            "LinkSpan": "khulnaLink"
+        },
+        {
+            "ServerName": "Majeda Download Server",
+            "Address": "http://172.22.22.101/",
+            "Description": "🌐 FTP",
+            "ResultSpan": "majeda",
+            "LinkSpan": "majedaLink"
+        },
+        {
+            "ServerName": "Mango Gamers (Game)",
+            "Address": "http://mangogamers.com/",
+            "Description": "🌐 FTP",
+            "ResultSpan": "mango",
+            "LinkSpan": "mangoLink"
+        },
+        {
+            "ServerName": "Mars BolBD",
+            "Address": "http://mars.bolbd.net/",
+            "Description": "🎬 Movie",
+            "ResultSpan": "mars",
+            "LinkSpan": "marsLink"
+        },
+        {
+            "ServerName": "MediaLink24",
+            "Address": "http://medialink24.net/",
+            "Description": "🎬 Movie",
+            "ResultSpan": "medialink",
+            "LinkSpan": "medialinkLink"
+        },
+        {
+            "ServerName": "Mega PlexBD TV",
+            "Address": "http://tv.megaplexbd.com/",
+            "Description": "📺 TV",
+            "ResultSpan": "mega",
+            "LinkSpan": "megaLink"
+        },
+        {
+            "ServerName": "Midiplex",
+            "Address": "http://cdn.midiplex.net/",
+            "Description": "🌐 FTP",
+            "ResultSpan": "midiplex",
+            "LinkSpan": "midiplexLink"
+        },
+        {
+            "ServerName": "Moja Loss",
+            "Address": "https://www.mojaloss.stream/",
+            "Description": "🎬 Movie",
+            "Rating": "⭐⭐⭐",
+            "ResultSpan": "moja",
+            "LinkSpan": "mojaLink"
+        },
+        {
+            "ServerName": "Mojar FTP",
+            "Address": "https://www.mojarftp.com/",
+            "Description": "🎬 Movie",
+            "ResultSpan": "mojar",
+            "LinkSpan": "mojarLink"
+        },
+        {
+            "ServerName": "Movie City",
+            "Address": "http://59.152.96.75/",
+            "Description": "🎬 Movie",
+            "ResultSpan": "movieCity",
+            "LinkSpan": "movieCityLink"
+        },
+        {
+            "ServerName": "Movie Box FTP",
+            "Address": "http://db1.movieboxbd.com/RDMS/",
+            "Description": "🌐 FTP",
+            "ResultSpan": "movieBox",
+            "LinkSpan": "movieBoxLink"
+        },
+        {
+            "ServerName": "Movie Box BD",
+            "Address": "http://movieboxbd.com/",
+            "Description": "🎬 Movie",
+            "ResultSpan": "movieBoxBD",
+            "LinkSpan": "movieBoxBDLink"
+        },
+        {
+            "ServerName": "Movies by 4D",
+            "Address": "http://www.movieserver.net/",
+            "Description": "🎬 Movie",
+            "ResultSpan": "movies4d",
+            "LinkSpan": "movies4dLink"
+        },
+        {
+            "ServerName": "Movie Haat",
+            "Address": "http://moviehaat.net/",
+            "Description": "🎬 Movie",
+            "ResultSpan": "movieHaat",
+            "LinkSpan": "movieHaatLink"
+        },
+        {
+            "ServerName": "MTube",
+            "Address": "http://mtub.bdfun.club/",
+            "Description": "🎬 Movie",
+            "ResultSpan": "mtube",
+            "LinkSpan": "mtubeLink"
+        },
+        {
+            "ServerName": "MLSBD",
+            "Address": "https://mlsbd.co/",
+            "Description": "🎬 Movie",
+            "Rating": "⭐⭐⭐⭐",
+            "ResultSpan": "mlsbd",
+            "LinkSpan": "mlsbdLink"
+        },
+        {
+            "ServerName": "My BDIX",
+            "Address": "http://mybdix.com/",
+            "Description": "🎬 Movie",
+            "ResultSpan": "mybdix",
+            "LinkSpan": "mybdixLink"
+        },
+        {
+            "ServerName": "Natural BD",
+            "Address": "http://www.naturalbd.com/",
+            "Description": "🎬 Movie",
+            "ResultSpan": "natural",
+            "LinkSpan": "naturalLink"
+        },
+        {
+            "ServerName": "Net Matrix",
+            "Address": "http://media.netmatrixbd.com/",
+            "Description": "🎬 Movie",
+            "ResultSpan": "netMatrix",
+            "LinkSpan": "netMatrixLink"
+        },
+        {
+            "ServerName": "NetCode Media Server",
+            "Address": "http://103.85.160.7/",
+            "Description": "🎬 Movie",
+            "ResultSpan": "netcode",
+            "LinkSpan": "netcodeLink"
+        },
+        {
+            "ServerName": "Pandaclubbd",
+            "Address": "http://pandaclubbd.com/",
+            "Description": "🎬 Movie",
+            "ResultSpan": "pandaclub",
+            "LinkSpan": "pandaclubLink"
+        },
+        {
+            "ServerName": "Put Lockers",
+            "Address": "https://www1.putlockers.cafe/",
+            "Description": "🎬 Movie",
+            "ResultSpan": "putlockers",
+            "LinkSpan": "putlockersLink"
+        },
+       
+        {
+            "ServerName": "Quick Online",
+            "Address": "http://quickonlineftp.com/",
+            "Description": "🎬 Movie",
+            "Rating": "⭐⭐⭐",
+            "ResultSpan": "quick",
+            "LinkSpan": "quickLink"
+        },
+        {
+            "ServerName": "Rainbow Networks",
+            "Address": "http://cinemacity.live/",
+            "Description": "🎬 Movie",
+            "Rating": "⭐⭐",
+            "ResultSpan": "rainbow",
+            "LinkSpan": "rainbowLink"
+        }, 
+        {
+            "ServerName": "Ranghanu TV",
+            "Address": "http://tv.ranghanu.live/",
+            "Description": "📺 TV",
+            "ResultSpan": "ranghanu",
+            "LinkSpan": "ranghanuLink"
+        },
+        {
+            "ServerName": "Roar Media TV",
+            "Address": "http://roarmediazone.com/live-tv.html",
+            "Description": "📺 TV",
+            "ResultSpan": "roarTV",
+            "LinkSpan": "roarTVLink"
+        },
+        {
+            "ServerName": "Roar Zone",
+            "Address": "http://roarzone.info/",
+            "Description": "🎬 Movie",
+            "ResultSpan": "roar",
+            "LinkSpan": "roarLink"
+        },
+        {
+            "ServerName": "Roar Zone (Boss BD)",
+            "Address": "http://cdn.roarzone.info/",
+            "Description": "🌐 FTP",
+            "ResultSpan": "roarBoss",
+            "LinkSpan": "roarBossLink"
+        },
+        {
+            "ServerName": "SAM Online",
+            "Address": "http://172.16.50.4/",
+            "Description": "📺 TV",
+            "ResultSpan": "sam",
+            "LinkSpan": "samLink"
+        },
+        {
+            "ServerName": "SAM Online Local 1 FTP",
+            "Address": "http://172.16.50.5/",
+            "Description": "🌐 FTP",
+            "ResultSpan": "samLocal1",
+            "LinkSpan": "samLocal1Link"
+        },
+        {
+            "ServerName": "SAM Online Local 2 FTP",
+            "Address": "http://172.16.50.4/",
+            "Description": "🌐 FTP",
+            "ResultSpan": "samLocal2",
+            "LinkSpan": "samLocal2Link"
+        },
+        {
+            "ServerName": "SAM Online Local 3 FTP",
+            "Address": "http://172.16.50.6/",
+            "Description": "🌐 FTP",
+            "ResultSpan": "samLocal3",
+            "LinkSpan": "samLocal3Link"
+        },
+        {
+            "ServerName": "Seba IT",
+            "Address": "http://103.195.1.50/",
+            "Description": "🎬 Movie",
+            "ResultSpan": "seba",
+            "LinkSpan": "sebaLink"
+        },
+        {
+            "ServerName": "Showtime BD",
+            "Address": "http://www.showtimebd.com/",
+            "Description": "🎬 Movie",
+            "Rating": "⭐⭐⭐",
+            "ResultSpan": "showtime",
+            "LinkSpan": "showtimeLink"
+        },
+        {
+            "ServerName": "Skynet",
+            "Address": "http://skynet.com.bd/ftp/",
+            "Description": "🌐 FTP",
+            "Rating": "⭐⭐",
+            "ResultSpan": "skynet",
+            "LinkSpan": "skynetLink"
+        },
+        {
+            "ServerName": "Small Screen",
+            "Address": "http://103.2.226.208/",
+            "Description": "🎬 Movie",
+            "ResultSpan": "smallScreen",
+            "LinkSpan": "smallScreenLink"
+        },
+        {
+            "ServerName": "SmilePlex",
+            "Address": "http://smileplex.net:8096/web/home.html",
+            "Description": "🎬 Movie",
+            "ResultSpan": "smileplex",
+            "LinkSpan": "smileplexLink"
+        },
+        {
+            "ServerName": "Smrity Cable",
+            "Address": "https://www.smritycable.com/",
+            "Description": "🎬 Movie",
+            "ResultSpan": "smrity",
+            "LinkSpan": "smrityLink"
+        },
+        {
+            "ServerName": "SparkleMovies",
+            "Address": "http://160.202.146.220/",
+            "Description": "🎬 Movie",
+            "ResultSpan": "sparkle",
+            "LinkSpan": "sparkleLink"
+        },
+        {
+            "ServerName": "Starplex",
+            "Address": "http://172.27.27.1/",
+            "Description": "🎬 Movie",
+            "Rating": "⭐⭐⭐",
+            "ResultSpan": "starplex",
+            "LinkSpan": "starplexLink"
+        },
+        {
+            "ServerName": "SunPlex",
+            "Address": "http://sunplex.net/",
+            "Description": "🎬 Movie",
+            "Rating": "⭐⭐⭐",
+            "ResultSpan": "sunplex",
+            "LinkSpan": "sunplexLink"
+        },
+        {
+            "ServerName": "Surzo Mama",
+            "Address": "http://103.85.235.254/",
+            "Description": "🎬 Movie",
+            "ResultSpan": "surzo",
+            "LinkSpan": "surzoLink"
+        },
+        {
+            "ServerName": "Tajpata TV",
+            "Address": "http://tv.tajpata.com/",
+            "Description": "📺 TV",
+            "ResultSpan": "tajpata",
+            "LinkSpan": "tajpataLink"
+        },
+        {
+            "ServerName": "Talmuri Local FTP",
+            "Address": "http://45.250.20.19/",
+            "Description": "🌐 FTP",
+            "ResultSpan": "talmuriLocal",
+            "LinkSpan": "talmuriLocalLink"
+        },
+        {
+            "ServerName": "TimeNei",
+            "Address": "http://timenei.com/",
+            "Description": "🎬 Movie",
+            "ResultSpan": "timenei",
+            "LinkSpan": "timeneiLink"
+        },
+        {
+            "ServerName": "Timepass FTP",
+            "Address": "http://ftp.timepassbd.live/",
+            "Description": "🌐 FTP",
+            "ResultSpan": "timepass",
+            "LinkSpan": "timepassLink"
+        },
+        {
+            "ServerName": "VDO mela",
+            "Address": "http://vdomela.com/",
+            "Description": "🎬 Movie",
+            "Rating": "⭐⭐",
+            "ResultSpan": "vdomela",
+            "LinkSpan": "vdomelaLink"
+        },
+        {
+            "ServerName": "Unique FTP",
+            "Address": "http://103.92.144.230/",
+            "Description": "🎬 Movie",
+            "ResultSpan": "unique",
+            "LinkSpan": "uniqueLink"
+        },
+        {
+            "ServerName": "Unlimited Broadband Service",
+            "Address": "http://ubnbd.com/",
+            "Description": "🎬 Movie",
+            "ResultSpan": "ubnbd",
+            "LinkSpan": "ubnbdLink"
+        }
+    ]
+}
