@@ -43,6 +43,14 @@
             "speedSpan": "alphamediazoneftpSpeed"
         },
         {
+            "ServerName": "Alpha Media Zone TV",
+            "Address": "http://tv.alphamediazone.com/",
+            "Description": "📺 TV",
+            "ResultSpan": "alphamediazonetv",
+            "LinkSpan": "alphamediazonetvLink",
+            "speedSpan": "alphamediazonetvSpeed"
+        },
+        {
             "ServerName": "AjobNet",
             "Address": "http://103.106.59.226:8096/",
             "Description": "🎬 Movie",
@@ -75,14 +83,6 @@
             "ResultSpan": "banglaflix",
             "LinkSpan": "banglaflixLink",
             "speedSpan": "banglaflixSpeed"
-        },
-        {
-            "ServerName": "Barnali Internet",
-            "Address": "http://103.112.63.21/",
-            "Description": "🎬 Movie",
-            "ResultSpan": "barnali",
-            "LinkSpan": "barnaliLink",
-            "speedSpan": "barnaliSpeed"
         },
         {
             "ServerName": "Barua Cybernet",
@@ -166,6 +166,14 @@
             "ResultSpan": "bdixSports",
             "LinkSpan": "bdixSportsLink",
             "speedSpan": "bdixSportsSpeed"
+        },
+        {
+            "ServerName": "BDIX TV",
+            "Address": "http://bdixtv.live/",
+            "Description": "📺 TV",
+            "ResultSpan": "bdixTV",
+            "LinkSpan": "bdixTVLink",
+            "speedSpan": "bdixTVSpeed"
         },
         {
             "ServerName": "BD Lan",
@@ -300,6 +308,14 @@
             "speedSpan": "crazySpeed"
         },
         {
+            "ServerName": "CTG Box",
+            "Address": "http://ctgbox.com/",
+            "Description": "📺 TV",
+            "ResultSpan": "ctgBoxTv",
+            "LinkSpan": "ctgBoxTvLink",
+            "speedSpan": "ctgBoxTvSpeed"
+        },
+        {
             "ServerName": "CTG Flix",
             "Address": "http://www.ctgflix.com/",
             "Description": "🎬 Movie",
@@ -332,6 +348,14 @@
             "speedSpan": "ctghubSpeed"
         },
         {
+            "ServerName": "CTG Live",
+            "Address": "http://www.ctgtv.live/",
+            "Description": "📺 TV",
+            "ResultSpan": "ctgLiveTV",
+            "LinkSpan": "ctgLiveTVLink",
+            "speedSpan": "ctgLiveTVSpeed"
+        },
+        {
             "ServerName": "CTG Movies",
             "Address": "http://ctgmovies.com/",
             "Description": "🎬 Movie",
@@ -346,6 +370,30 @@
             "ResultSpan": "ctgstream",
             "LinkSpan": "ctgstreamLink",
             "speedSpan": "ctgstreamSpeed"
+        },
+        {
+            "ServerName": "DashNet",
+            "Address": "http://103.152.18.18/",
+            "Description": "🎬 Movie",
+            "ResultSpan": "dashnet",
+            "LinkSpan": "dashnetLink",
+            "speedSpan": "dashnetSpeed"
+        },
+        {
+            "ServerName": "DFLIX",
+            "Address": "http://dflix.live/",
+            "Description": "🎬 Movie",
+            "ResultSpan": "dflix",
+            "LinkSpan": "dflixLink",
+            "speedSpan": "dflixSpeed"
+        },
+        {
+            "ServerName": "DFLIX TV",
+            "Address": "http://tv.dflix.live/",
+            "Description": "📺 TV",
+            "ResultSpan": "dflixTv",
+            "LinkSpan": "dflixTvLink",
+            "speedSpan": "dflixTvSpeed"
         },
         {
             "ServerName": "Dhaka Movie",
@@ -396,6 +444,14 @@
             "speedSpan": "eboxSpeed"
         },
         {
+            "ServerName": "EBox FS",
+            "Address": "http://fs.ebox.live/",
+            "Description": "🌐 FTP",
+            "ResultSpan": "eboxFs",
+            "LinkSpan": "eboxFsLink",
+            "speedSpan": "eboxFsSpeed"
+        },
+        {
             "ServerName": "EBox FTP",
             "Address": "http://fileserver.ebox.live/",
             "Description": "🌐 FTP",
@@ -403,6 +459,14 @@
             "ResultSpan": "eboxFtp",
             "LinkSpan": "eboxFtpLink",
             "speedSpan": "eboxFtpSpeed"
+        },
+        {
+            "ServerName": "EBox TV",
+            "Address": "http://tv.ebox.live/",
+            "Description": "📺 TV",
+            "ResultSpan": "eboxTv",
+            "LinkSpan": "eboxTvLink",
+            "speedSpan": "eboxTvSpeed"
         },
         {
             "ServerName": "Ekushe Net",
@@ -470,6 +534,30 @@
             "ResultSpan": "ftpbd",
             "LinkSpan": "ftpbdLink",
             "speedSpan": "ftpbdSpeed"
+        },
+        {
+            "ServerName": "FTP BD Net",
+            "Address": "http://ftpbd.net/",
+            "Description": "🎬 Movie",
+            "ResultSpan": "ftpbdNet",
+            "LinkSpan": "ftpbdNetLink",
+            "speedSpan": "ftpbdNetSpeed"
+        },
+        {
+            "ServerName": "FTP BD Index",
+            "Address": "http://server2.ftpbd.net/",
+            "Description": "🎬 Movie",
+            "ResultSpan": "ftpbdIndex",
+            "LinkSpan": "ftpbdIndexLink",
+            "speedSpan": "ftpbdIndexSpeed"
+        },
+        {
+            "ServerName": "FTP BD TV",
+            "Address": "http://otv.ftpbd.net/",
+            "Description": "📺 TV",
+            "ResultSpan": "ftpbdTv",
+            "LinkSpan": "ftpbdTvLink",
+            "speedSpan": "ftpbdTvSpeed"
         },
         {
             "ServerName": "FunTimeBD",
@@ -599,6 +687,14 @@
             "speedSpan": "khulnaSpeed"
         },
         {
+            "ServerName": "Link TV",
+            "Address": "http://tv.linktech.net.bd/",
+            "Description": "📺 TV",
+            "ResultSpan": "linktv",
+            "LinkSpan": "linktvLink",
+            "speedSpan": "linktvSpeed"
+        },
+        {
             "ServerName": "Majeda Download Server",
             "Address": "http://172.22.22.101/",
             "Description": "🌐 FTP",
@@ -634,6 +730,7 @@
             "ServerName": "Mega PlexBD TV",
             "Address": "http://tv.megaplexbd.com/",
             "Description": "📺 TV",
+            "Rating": "☠️",
             "ResultSpan": "mega",
             "LinkSpan": "megaLink",
             "speedSpan": "megaSpeed"
@@ -737,6 +834,14 @@
             "speedSpan": "naturalSpeed"
         },
         {
+            "ServerName": "Nagordola",
+            "Address": "http://nagordola.live/",
+            "Description": "📺 TV",
+            "ResultSpan": "nagordola",
+            "LinkSpan": "nagordolaLink",
+            "speedSpan": "nagordolaSpeed"
+        },
+        {
             "ServerName": "Net Matrix",
             "Address": "http://media.netmatrixbd.com/",
             "Description": "🎬 Movie",
@@ -745,17 +850,10 @@
             "speedSpan": "netMatrixSpeed"
         },
         {
-            "ServerName": "NetCode Media Server",
-            "Address": "http://103.85.160.7/",
-            "Description": "🎬 Movie",
-            "ResultSpan": "netcode",
-            "LinkSpan": "netcodeLink",
-            "speedSpan": "netcodeSpeed"
-        },
-        {
             "ServerName": "Pandaclubbd",
             "Address": "http://pandaclubbd.com/",
             "Description": "🎬 Movie",
+            "Rating": "⭐⭐",
             "ResultSpan": "pandaclub",
             "LinkSpan": "pandaclubLink",
             "speedSpan": "pandaclubSpeed"
@@ -804,20 +902,36 @@
             "speedSpan": "roarTVSpeed"
         },
         {
-            "ServerName": "Roar Zone",
-            "Address": "http://roarzone.info/",
+            "ServerName": "RoarZone Exclusive FTP",
+            "Address": "https://play.roarmediazone.com/",
             "Description": "🎬 Movie",
-            "ResultSpan": "roar",
-            "LinkSpan": "roarLink",
-            "speedSpan": "roarSpeed"
+            "ResultSpan": "roarExclusive",
+            "LinkSpan": "roarExclusiveLink",
+            "speedSpan": "roarExclusiveSpeed"
         },
         {
-            "ServerName": "Roar Zone (Boss BD)",
+            "ServerName": "RoarZone FTP",
+            "Address": "http://cdn.roarmediazone.com/",
+            "Description": "🎬 Movie",
+            "ResultSpan": "roarFTP",
+            "LinkSpan": "roarFTPLink",
+            "speedSpan": "roarFTPSpeed"
+        },
+        {
+            "ServerName": "RoarZone (Boss BD)",
             "Address": "http://cdn.roarzone.info/",
             "Description": "🌐 FTP",
             "ResultSpan": "roarBoss",
             "LinkSpan": "roarBossLink",
             "speedSpan": "roarBossSpeed"
+        },
+        {
+            "ServerName": "RoarZone TV",
+            "Address": "http://tv.roarzone.info/",
+            "Description": "📺 TV",
+            "ResultSpan": "roarZoneTV",
+            "LinkSpan": "roarZoneTVLink",
+            "speedSpan": "roarZoneTVSpeed"
         },
         {
             "ServerName": "SAM Online",
@@ -983,14 +1097,6 @@
             "ResultSpan": "unique",
             "LinkSpan": "uniqueLink",
             "speedSpan": "uniqueSpeed"
-        },
-        {
-            "ServerName": "Unlimited Broadband Service",
-            "Address": "http://ubnbd.com/",
-            "Description": "🎬 Movie",
-            "ResultSpan": "ubnbd",
-            "LinkSpan": "ubnbdLink",
-            "speedSpan": "ubnbdSpeed"
         }
     ]
 }
