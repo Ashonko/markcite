@@ -584,6 +584,15 @@
             "speedSpan": "gcSpeed"
         },
         {
+            "ServerName": "Gocu",
+            "Address": "https://goku.to/home",
+            "Description": "🎬 Movie",
+            "Rating": "⭐⭐⭐⭐⭐",
+            "ResultSpan": "gocu",
+            "LinkSpan": "gocuLink",
+            "speedSpan": "gocuSpeed"
+        },
+        {
             "ServerName": "iBox",
             "Address": "http://103.135.208.2/",
             "Description": "🎬 Movie",
