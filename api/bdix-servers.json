@@ -846,6 +846,7 @@
             "ServerName": "Nagordola",
             "Address": "http://nagordola.live/",
             "Description": "📺 TV",
+            "Rating": "☠️",
             "ResultSpan": "nagordola",
             "LinkSpan": "nagordolaLink",
             "speedSpan": "nagordolaSpeed"
