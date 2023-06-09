@@ -68,6 +68,23 @@
             "speedSpan": "amrbdSpeed"
         },
         {
+            "ServerName": "Amrbd Live TV",
+            "Address": "http://amrbd.com/",
+            "Description": "📺 TV",
+            "Rating": "⭐",
+            "ResultSpan": "amrbdTv",
+            "LinkSpan": "amrbdTvLink",
+            "speedSpan": "amrbdTvSpeed"
+        },
+        {
+            "ServerName": "ANT TV",
+            "Address": "http://172.17.50.112/",
+            "Description": "📺 TV",
+            "ResultSpan": "antTv",
+            "LinkSpan": "antTvLink",
+            "speedSpan": "antTvSpeed"
+        },
+        {
             "ServerName": "B Net",
             "Address": "http://103.58.73.13/",
             "Description": "🌐 FTP",
@@ -284,6 +301,14 @@
             "speedSpan": "circleLocalSpeed"
         },
         {
+            "ServerName": "Circle Network",
+            "Address": "http://circleftp.net/",
+            "Description": "🌐 FTP",
+            "ResultSpan": "circleNetworkLocal",
+            "LinkSpan": "circleNetworkLocalLink",
+            "speedSpan": "circleNetworkLocalSpeed"
+        },
+        {
             "ServerName": "Citech Movies",
             "Address": "http://203.83.177.225/",
             "Description": "🎬 Movie",
@@ -428,12 +453,12 @@
             "speedSpan": "dreamSpeed"
         },
         {
-            "ServerName": "Dugdugi Live",
-            "Address": "http://www.duggilive.com/",
+            "ServerName": "Earth TV",
+            "Address": "http://172.16.29.250/",
             "Description": "📺 TV",
-            "ResultSpan": "duggi",
-            "LinkSpan": "duggiLink",
-            "speedSpan": "duggiSpeed"
+            "ResultSpan": "earthTv",
+            "LinkSpan": "earthTvLink",
+            "speedSpan": "earthTvSpeed"
         },
         {
             "ServerName": "EBox",
@@ -593,6 +618,14 @@
             "speedSpan": "gocuSpeed"
         },
         {
+            "ServerName": "IBCCL",
+            "Address": "http://103.203.93.2/",
+            "Description": "🌐 FTP",
+            "ResultSpan": "ibccl",
+            "LinkSpan": "ibcclLink",
+            "speedSpan": "ibcclSpeed"
+        },
+        {
             "ServerName": "iBox",
             "Address": "http://103.135.208.2/",
             "Description": "🎬 Movie",
@@ -710,14 +743,6 @@
             "ResultSpan": "majeda",
             "LinkSpan": "majedaLink",
             "speedSpan": "majedaSpeed"
-        },
-        {
-            "ServerName": "Mango Gamers (Game)",
-            "Address": "http://mangogamers.com/",
-            "Description": "🌐 FTP",
-            "ResultSpan": "mango",
-            "LinkSpan": "mangoLink",
-            "speedSpan": "mangoSpeed"
         },
         {
             "ServerName": "Mars BolBD",
@@ -843,15 +868,6 @@
             "speedSpan": "naturalSpeed"
         },
         {
-            "ServerName": "Nagordola",
-            "Address": "http://nagordola.live/",
-            "Description": "📺 TV",
-            "Rating": "☠️",
-            "ResultSpan": "nagordola",
-            "LinkSpan": "nagordolaLink",
-            "speedSpan": "nagordolaSpeed"
-        },
-        {
             "ServerName": "Net Matrix",
             "Address": "http://media.netmatrixbd.com/",
             "Description": "🎬 Movie",
@@ -894,14 +910,6 @@
             "ResultSpan": "rainbow",
             "LinkSpan": "rainbowLink",
             "speedSpan": "rainbowSpeed"
-        }, 
-        {
-            "ServerName": "Ranghanu TV",
-            "Address": "http://tv.ranghanu.live/",
-            "Description": "📺 TV",
-            "ResultSpan": "ranghanu",
-            "LinkSpan": "ranghanuLink",
-            "speedSpan": "ranghanuSpeed"
         },
         {
             "ServerName": "Roar Media TV",
@@ -974,6 +982,14 @@
             "ResultSpan": "samLocal3",
             "LinkSpan": "samLocal3Link",
             "speedSpan": "samLocal3Speed"
+        },
+        {
+            "ServerName": "SAM Live TV",
+            "Address": "http://172.16.50.2/",
+            "Description": "📺 TV",
+            "ResultSpan": "samTv",
+            "LinkSpan": "samTvLink",
+            "speedSpan": "samTvSpeed"
         },
         {
             "ServerName": "Seba IT",
@@ -1060,28 +1076,12 @@
             "speedSpan": "surzoSpeed"
         },
         {
-            "ServerName": "Tajpata TV",
-            "Address": "http://tv.tajpata.com/",
-            "Description": "📺 TV",
-            "ResultSpan": "tajpata",
-            "LinkSpan": "tajpataLink",
-            "speedSpan": "tajpataSpeed"
-        },
-        {
             "ServerName": "Talmuri Local FTP",
             "Address": "http://45.250.20.19/",
             "Description": "🌐 FTP",
             "ResultSpan": "talmuriLocal",
             "LinkSpan": "talmuriLocalLink",
             "speedSpan": "talmuriLocalSpeed"
-        },
-        {
-            "ServerName": "TimeNei",
-            "Address": "http://timenei.com/",
-            "Description": "🎬 Movie",
-            "ResultSpan": "timenei",
-            "LinkSpan": "timeneiLink",
-            "speedSpan": "timeneiSpeed"
         },
         {
             "ServerName": "Timepass FTP",
@@ -1099,6 +1099,14 @@
             "ResultSpan": "vdomela",
             "LinkSpan": "vdomelaLink",
             "speedSpan": "vdomelaSpeed"
+        },
+        {
+            "ServerName": "UCL Live TV",
+            "Address": "http://tv.unifiedcore.net/",
+            "Description": "📺 TV",
+            "ResultSpan": "uclTv",
+            "LinkSpan": "uclTvLink",
+            "speedSpan": "uclTvSpeed"
         },
         {
             "ServerName": "Unique FTP",
