@@ -553,6 +553,15 @@
             "speedSpan": "fmoviesSpeed"
         },
         {
+            "ServerName": "Free Movies Full",
+            "Address": "https://freemoviesfull.net/",
+            "Description": "▶️ Streaming",
+            "Rating": "⭐⭐⭐⭐",
+            "ResultSpan": "freeMoviesFull",
+            "LinkSpan": "freeMoviesFullLink",
+            "speedSpan": "freeMoviesFullSpeed"
+        },
+        {
             "ServerName": "FTP BD",
             "Address": "http://ftpbd.com/",
             "Description": "🎬 Movie",
@@ -611,7 +620,7 @@
         {
             "ServerName": "Gocu",
             "Address": "https://goku.to/home",
-            "Description": "🎬 Movie",
+            "Description": "▶️ Streaming",
             "Rating": "⭐⭐⭐⭐⭐",
             "ResultSpan": "gocu",
             "LinkSpan": "gocuLink",
@@ -795,6 +804,24 @@
             "speedSpan": "mojarSpeed"
         },
         {
+            "ServerName": "Movie4K to",
+            "Address": "https://movie4kto.net/",
+            "Description": "▶️ Streaming",
+            "Rating": "⭐⭐⭐⭐",
+            "ResultSpan": "movie4kTo",
+            "LinkSpan": "movie4kToLink",
+            "speedSpan": "movie4kToSpeed"
+        },
+        {
+            "ServerName": "MoviesHD Watch",
+            "Address": "https://movieshd.watch/",
+            "Description": "▶️ Streaming",
+            "Rating": "⭐⭐⭐⭐",
+            "ResultSpan": "moviesHdWatch",
+            "LinkSpan": "moviesHdWatchLink",
+            "speedSpan": "moviesHdWatchSpeed"
+        },
+        {
             "ServerName": "Movie City",
             "Address": "http://59.152.96.75/",
             "Description": "🎬 Movie",
@@ -845,7 +872,7 @@
         {
             "ServerName": "MLSBD",
             "Address": "https://mlsbd.co/",
-            "Description": "🎬 Movie",
+            "Description": "▶️ Streaming",
             "Rating": "⭐⭐⭐⭐",
             "ResultSpan": "mlsbd",
             "LinkSpan": "mlsbdLink",
