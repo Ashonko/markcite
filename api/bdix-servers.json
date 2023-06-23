@@ -245,14 +245,6 @@
             "speedSpan": "bonsaiSpeed"
         },
         {
-            "ServerName": "Boss BD",
-            "Address": "http://cdn.bossbd.net/",
-            "Description": "🌐 FTP",
-            "ResultSpan": "boss",
-            "LinkSpan": "bossLink",
-            "speedSpan": "bossSpeed"
-        },
-        {
             "ServerName": "Boss BD FTP",
             "Address": "http://cdn2.bossbd.net/",
             "Description": "🌐 FTP",
@@ -293,6 +285,15 @@
             "speedSpan": "cineSpeed"
         },
         {
+            "ServerName": "Cinema Bazar",
+            "Address": "http://cinemabazar.net/",
+            "Description": "🎬 Movie",
+            "Rating": "⭐⭐⭐⭐",
+            "ResultSpan": "cinemaBazar",
+            "LinkSpan": "cinemaBazarLink",
+            "speedSpan": "cinemaBazarSpeed"
+        },
+        {
             "ServerName": "Circle Network Local",
             "Address": "http://15.1.1.1/",
             "Description": "🌐 FTP",
@@ -328,6 +329,7 @@
             "ServerName": "Crazy CTG",
             "Address": "http://crazyctg.com/",
             "Description": "🎬 Movie",
+            "Rating": "⭐⭐⭐",
             "ResultSpan": "crazy",
             "LinkSpan": "crazyLink",
             "speedSpan": "crazySpeed"
@@ -448,6 +450,7 @@
             "ServerName": "Dream Flix",
             "Address": "http://www.dnftpbd.com/",
             "Description": "🎬 Movie",
+            "Rating": "⭐⭐⭐",
             "ResultSpan": "dream",
             "LinkSpan": "dreamLink",
             "speedSpan": "dreamSpeed"
@@ -456,6 +459,7 @@
             "ServerName": "Earth TV",
             "Address": "http://172.16.29.250/",
             "Description": "📺 TV",
+            "Rating": "⭐⭐⭐⭐",
             "ResultSpan": "earthTv",
             "LinkSpan": "earthTvLink",
             "speedSpan": "earthTvSpeed"
@@ -630,6 +634,7 @@
             "ServerName": "IBCCL",
             "Address": "http://103.203.93.2/",
             "Description": "🌐 FTP",
+            "Rating": "⭐⭐",
             "ResultSpan": "ibccl",
             "LinkSpan": "ibcclLink",
             "speedSpan": "ibcclSpeed"
@@ -898,6 +903,7 @@
             "ServerName": "Net Matrix",
             "Address": "http://media.netmatrixbd.com/",
             "Description": "🎬 Movie",
+            "Rating": "⭐⭐⭐",
             "ResultSpan": "netMatrix",
             "LinkSpan": "netMatrixLink",
             "speedSpan": "netMatrixSpeed"
@@ -919,7 +925,6 @@
             "LinkSpan": "putlockersLink",
             "speedSpan": "putlockersSpeed"
         },
-       
         {
             "ServerName": "Quick Online",
             "Address": "http://quickonlineftp.com/",
